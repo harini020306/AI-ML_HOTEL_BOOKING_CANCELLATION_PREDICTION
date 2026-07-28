@@ -132,10 +132,6 @@ Hotel_Booking_Cancellation/
 ├── app.py
 ├── hotel_booking_model.pkl
 ├── scaler.pkl
-├── hotel_booking_dataset.csv
-├── requirements.txt
-├── README.md
-└── images/
 ```
 
 ---
@@ -153,14 +149,6 @@ Move to the project folder
 ```bash
 cd Hotel-Booking-Cancellation-Prediction
 ```
-
-Install required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # ▶️ Run the Application
 
