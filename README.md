@@ -191,6 +191,13 @@ The application predicts whether the booking will be:
 * ❌ Cancelled
 
 ---
+# 🎯 Deployment
+
+<img width="2940" height="1912" alt="Screenshot 2026-07-29 at 9 17 01 AM" src="https://github.com/user-attachments/assets/d847df3f-be47-4ace-8150-7055d45657a7" />
+
+<img width="2940" height="1912" alt="Screenshot 2026-07-29 at 9 17 11 AM" src="https://github.com/user-attachments/assets/9ab806b0-8167-458c-bc5e-2536cd45bf35" />
+
+<img width="2940" height="1912" alt="Screenshot 2026-07-29 at 9 17 21 AM" src="https://github.com/user-attachments/assets/9f58c8b5-7d3c-4cf1-a2be-0b9fe6c72950" />
 
 # Future Enhancements
 
